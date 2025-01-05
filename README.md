@@ -14,3 +14,8 @@ Sonra Alttaki Fotoğrafta Belirttiğim gibi yolu Doğru Girerseniz oyununuzu tü
 ![image](https://github.com/user-attachments/assets/d6ab0386-9e02-4984-8b12-0891c66a0c65)
 
 Bu Şekilde Yolu buraya belirtiyoruz oyunumuz türkçe hale geliyor iyi Oyunlar Dilerim...
+
+
+Yada  En Basit Yöntem olarak oyunu Projectorun üzerine sürükleyebilirsiniz yada swf dosyasına sağ tıklayıp birlikte aç diyip projectorude seçebilirsiniz Aşağıda Fotoğrafını Paylaştım
+
+![image](https://github.com/user-attachments/assets/c64b5424-8fcf-4f74-81cc-60d2f192657f)
